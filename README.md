@@ -111,8 +111,6 @@ This project enhanced my expertise in **embedded systems, real-time programming*
 
 - **Creativity**: Designed a responsive GUI and dynamic audio system within resource constraints.
 
-**Full Code & Documentation**: GitHub Repository
-
 **Demo Video**: <https://youtu.be/m1qLWg0Lp00>
 
 **EEPW Forum Post**: 
