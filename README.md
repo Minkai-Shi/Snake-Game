@@ -114,8 +114,8 @@ This project enhanced my expertise in **embedded systems, real-time programming*
 **Demo Video**: <https://youtu.be/m1qLWg0Lp00>
 
 **EEPW Forum Post**: 
-<https://forum.eepw.com.cn/thread/384440/1>
-<https://forum.eepw.com.cn/thread/384453/1>
-<https://forum.eepw.com.cn/thread/384471/1>
+<https://forum.eepw.com.cn/thread/384440/1> 
+<https://forum.eepw.com.cn/thread/384453/1> 
+<https://forum.eepw.com.cn/thread/384471/1> 
 <https://forum.eepw.com.cn/thread/384521/1>
 ---
